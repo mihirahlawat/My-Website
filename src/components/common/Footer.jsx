@@ -154,10 +154,11 @@ export default function Footer() {
       <div className="copyright">
         <div className="container">
           <PText>
-            Made with ❤ by Mihir Ahlawat <br /> Inspired By{' '}
+            Made with ❤ by Mihir Ahlawat
+            {/* <br /> Inspired By{' '}
             <a target="_blank" rel="noreferrer" href="http://webcifar.com">
               web cifar
-            </a>{' '}
+            </a>{' '} */}
           </PText>
         </div>
       </div>

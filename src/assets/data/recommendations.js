@@ -5,7 +5,7 @@ const recommendations = [
     title: 'Undergrad Student',
     org: 'Delhi Technological University',
     desc:
-      'Mihir is my brother and a person of commitment. He is really good at what he does. I really like his work.',
+      'Mihir is a person of commitment. He is really good at programming. I really like his work.',
   },
   {
     id: 2,
